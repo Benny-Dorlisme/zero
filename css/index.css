@@ -1,0 +1,48 @@
+html{
+    height:100%;
+}
+body{
+    height:100%;
+}
+form input{
+    display: block;
+  width:50%;
+    margin:0px auto;
+
+}
+
+h1, h2{
+
+    margin:0;
+
+    text-align: center;
+}
+fieldset{
+
+    text-align: center;
+}
+textarea{
+margin:0 auto;
+    width:75%;
+    align-self: center;
+    display: inline-block;
+}
+.modifier_button{
+    display: block;
+    height:2em;
+    width: 2em;
+    font-family: "Baskerville Old Face" ;
+}
+#bold_button{
+    font-weight: bold;
+}
+#underline_button{
+
+    text-decoration: underline;
+}
+#italic_button{
+    font-style: italic;
+}
+#article_modifier{
+    vertical-align: top;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21b5ac4a-3efa-4542-9617-10b95ee1b20e" name="1and1Zero" url="http://zero.bennydorlisme.com">
+        <fileTransfer host="home679310935.1and1-data.host" port="22" rootFolder="/Zero" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
